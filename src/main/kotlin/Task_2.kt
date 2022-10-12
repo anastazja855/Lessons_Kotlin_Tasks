@@ -8,5 +8,4 @@ var number: Int = input_number!!.toInt()
                 println("Минимальный делитель, превышающий 1 = $i")
             break
         }
-
     }
