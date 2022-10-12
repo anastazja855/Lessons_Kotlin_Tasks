@@ -1,5 +1,11 @@
 import javax.management.Query.and
 import javax.management.Query.or
+/**
+ * Простая (2 балла)
+ *
+ * Мой возраст. Для заданного 0 < n < 200, рассматриваемого как возраст человека,
+ * вернуть строку вида: «21 год», «32 года», «12 лет».
+ */
 
 fun main() {
         println("Enter your age, please")
