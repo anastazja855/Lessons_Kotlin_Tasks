@@ -1,3 +1,4 @@
+
 fun main (args: Array<String>){
         println("Input your number")
         var input_number = readLine()
