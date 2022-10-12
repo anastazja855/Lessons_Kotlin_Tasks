@@ -1,4 +1,6 @@
+/*
 fun main (args: Array<String>) {
+
     var min1: Int
     var min2: Int
     println("Введите размеры кирпича")
@@ -58,3 +60,5 @@ compareSizes (min1, min2, r, s){
     if ((min1<r)
 }
 }
+
+ */
